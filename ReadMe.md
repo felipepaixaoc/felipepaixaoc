@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estagiário - Desenvolvimento de sistemas, infraestrutura e banco de dados.
+Formado em Ciência da Computação, com foco em desenvolvimento de software e soluções criativas.
 
 
 ## 🌐 Socials:
