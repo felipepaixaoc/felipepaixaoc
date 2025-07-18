@@ -4,6 +4,7 @@ Sou formado em Ciência da Computação pela Newton Paiva, com conhecimentos em 
 Tenho interesse em aprender e aplicar tecnologias como Python, C#, JavaScript, TypeScript, HTML e CSS, além de desenvolvimento backend e full stack.
 
 🚀 O que estou fazendo
+
 Explorando e praticando desenvolvimento backend e full stack;
 
 Estudando segurança da informação e infraestrutura de redes;
@@ -11,6 +12,7 @@ Estudando segurança da informação e infraestrutura de redes;
 Desenvolvendo projetos pessoais para aprimorar habilidades técnicas e analíticas.
 
 💡 Tecnologias e ferramentas
+
 Linguagens: Python, C#, C++, JavaScript, TypeScript;
 
 Front-end: HTML, CSS, JavaScript, TypeScript;
