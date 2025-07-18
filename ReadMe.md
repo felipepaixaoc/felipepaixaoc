@@ -1,5 +1,25 @@
-# 💫 About Me:
-Formado em Ciência da Computação, com foco em desenvolvimento de software e soluções criativas.
+# Olá 👋:
+Sou formado em Ciência da Computação pela Newton Paiva, com conhecimentos em desenvolvimento de sistemas, análise de sistemas, infraestrutura de TI e segurança da informação.
+
+Tenho interesse em aprender e aplicar tecnologias como Python, C#, JavaScript, TypeScript, HTML e CSS, além de desenvolvimento backend e full stack.
+
+🚀 O que estou fazendo
+Explorando e praticando desenvolvimento backend e full stack;
+
+Estudando segurança da informação e infraestrutura de redes;
+
+Desenvolvendo projetos pessoais para aprimorar habilidades técnicas e analíticas.
+
+💡 Tecnologias e ferramentas
+Linguagens: Python, C#, C++, JavaScript, TypeScript;
+
+Front-end: HTML, CSS, JavaScript, TypeScript;
+
+Back-end: Python, C#;
+
+Ferramentas e práticas de Segurança da Informação: administração de sistemas anti-spam, configuração de firewalls e proteção de dados;
+
+Ferramentas adicionais: Microsoft Exchange, Office 365.
 
 
 ## 🌐 Socials:
